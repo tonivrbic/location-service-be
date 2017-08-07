@@ -34,7 +34,6 @@ namespace LocationServicesApi
             services.AddDbContext<Context>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
-            System.Console.WriteLine(Environment.GetEnvironmentVariable("MYSQLCONNSTR_localdb"));
             services.AddMvc();
         }
 

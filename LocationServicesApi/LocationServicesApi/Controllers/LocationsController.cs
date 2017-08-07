@@ -105,7 +105,10 @@ namespace LocationServicesApi.Controllers
                 }
             }
 
-            location.Date = DateTime.UtcNow;
+            if (location.Date == null)
+            {
+                location.Date = DateTime.UtcNow;
+            }
 
             _context.Locations.Add(location);
 
