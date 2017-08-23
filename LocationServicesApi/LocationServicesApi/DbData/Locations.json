@@ -1,0 +1,882 @@
+﻿[
+  {
+    "Longitude": 18.71,
+    "Latitude": 45.56,
+    "Date": "2017-06-11T13:27:33.0307645",
+    "Address": "Ul. cara Hadrijana 8, 31000, Osijek, Croatia",
+    "DeviceId": 1,
+    "Device": null
+  },
+  {
+    "Longitude": 18.68,
+    "Latitude": 45.56,
+    "Date": "2017-06-11T13:29:22.6992647",
+    "Address": "Ul. Hrvatske Republike 35-37, 31000, Osijek, Croatia",
+    "DeviceId": 2,
+    "Device": null
+  },
+  {
+    "Longitude": 18.68,
+    "Latitude": 45.56,
+    "Date": "2017-06-11T13:30:07.7641492",
+    "Address": "Europska avenija 7, 31000, Osijek, Croatia",
+    "DeviceId": 3,
+    "Device": null
+  },
+  {
+    "Longitude": 18.69,
+    "Latitude": 45.56,
+    "Date": "2017-06-11T13:30:49.3095601",
+    "Address": "Istarska ul. 2, 31000, Osijek, Croatia",
+    "DeviceId": 4,
+    "Device": null
+  },
+  {
+    "Longitude": 18.69,
+    "Latitude": 45.56,
+    "Date": "2017-06-11T13:31:28.1287889",
+    "Address": "Vukovarska ul. 40, 31000, Osijek, Croatia",
+    "DeviceId": 5,
+    "Device": null
+  },
+  {
+    "Longitude": 18.7,
+    "Latitude": 45.55,
+    "Date": "2017-06-11T13:34:23.4301563",
+    "Address": "Vukovarska ul. 124, 31000, Osijek, Croatia",
+    "DeviceId": 6,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6687222,
+    "Latitude": 45.55702,
+    "Date": "2017-06-11T13:50:10.7569427",
+    "Address": "Ul. Andrije Hebranga 11, 31000, Osijek, Croatia",
+    "DeviceId": 6,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6995811,
+    "Latitude": 45.5498352,
+    "Date": "2017-06-11T13:52:40.6078521",
+    "Address": "Sjenjak ul. 29, 31000, Osijek, Croatia",
+    "DeviceId": 5,
+    "Device": null
+  },
+  {
+    "Longitude": 18.71403,
+    "Latitude": 45.5479431,
+    "Date": "2017-06-11T13:53:08.9543898",
+    "Address": "Srijemska ul. 84-90, 31000, Osijek, Croatia",
+    "DeviceId": 4,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6936588,
+    "Latitude": 45.5561447,
+    "Date": "2017-06-11T13:53:48.7359848",
+    "Address": "Istarska ul. 10, 31000, Osijek, Croatia",
+    "DeviceId": 3,
+    "Device": null
+  },
+  {
+    "Longitude": 18.7021084,
+    "Latitude": 45.5521,
+    "Date": "2017-06-11T13:54:29.0957113",
+    "Address": "Ul. Ivana Zajca 35, 31000, Osijek, Croatia",
+    "DeviceId": 2,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6825085,
+    "Latitude": 45.56094,
+    "Date": "2017-08-07T16:52:27.182",
+    "Address": "Europska avenija 13, 31000, Osijek, Croatia",
+    "DeviceId": 1,
+    "Device": null
+  },
+  {
+    "Longitude": 18.68002,
+    "Latitude": 45.5613,
+    "Date": "2017-08-07T16:47:27.182",
+    "Address": "Kapucinska ul. 26, 31000, Osijek, Croatia",
+    "DeviceId": 1,
+    "Device": null
+  },
+  {
+    "Longitude": 18.693409,
+    "Latitude": 45.55529,
+    "Date": "2017-08-07T17:07:27.182",
+    "Address": "Vukovarska ul. 54, 31000, Osijek, Croatia",
+    "DeviceId": 1,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6953831,
+    "Latitude": 45.55481,
+    "Date": "2017-08-07T17:12:27.182",
+    "Address": "Ul. kneza Trpimira 4, 31000, Osijek, Croatia",
+    "DeviceId": 1,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6972923,
+    "Latitude": 45.55412,
+    "Date": "2017-08-07T17:27:27.182",
+    "Address": "Vukovarska ul. 86, 31000, Osijek, Croatia",
+    "DeviceId": 1,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6856842,
+    "Latitude": 45.5603065,
+    "Date": "2017-08-07T16:57:27.182",
+    "Address": "Ul. Kardinala Alojzija Stepinca 8, 31000, Osijek, Croatia",
+    "DeviceId": 1,
+    "Device": null
+  },
+  {
+    "Longitude": 18.7023773,
+    "Latitude": 45.552887,
+    "Date": "2017-08-07T17:47:27.182",
+    "Address": "Ul. Ivana Gorana Kovacica 13, 31000, Osijek, Croatia",
+    "DeviceId": 1,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6976147,
+    "Latitude": 45.5533371,
+    "Date": "2017-08-07T17:32:27.182",
+    "Address": "Sjenjak ul. 32, 31000, Osijek, Croatia",
+    "DeviceId": 1,
+    "Device": null
+  },
+  {
+    "Longitude": 18.69918,
+    "Latitude": 45.5533676,
+    "Date": "2017-08-07T17:37:27.182",
+    "Address": "Sjenjak ul. 14, 31000, Osijek, Croatia",
+    "DeviceId": 1,
+    "Device": null
+  },
+  {
+    "Longitude": 18.69689,
+    "Latitude": 45.554348,
+    "Date": "2017-08-07T17:22:27.182",
+    "Address": "Vukovarska ul. 84, 31000, Osijek, Croatia",
+    "DeviceId": 1,
+    "Device": null
+  },
+  {
+    "Longitude": 18.69702,
+    "Latitude": 45.5547943,
+    "Date": "2017-08-07T17:17:27.182",
+    "Address": "Vukovarska ul. 92, 31000, Osijek, Croatia",
+    "DeviceId": 1,
+    "Device": null
+  },
+  {
+    "Longitude": 18.7008762,
+    "Latitude": 45.5526924,
+    "Date": "2017-08-07T17:42:27.182",
+    "Address": "Sjenjak ul. 2, 31000, Osijek, Croatia",
+    "DeviceId": 1,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6924648,
+    "Latitude": 45.55726,
+    "Date": "2017-08-08T12:16:07.038",
+    "Address": "Ul. Dobrise Cesarica 4, 31000, Osijek, Croatia",
+    "DeviceId": 8,
+    "Device": null
+  },
+  {
+    "Longitude": 18.69345,
+    "Latitude": 45.5557556,
+    "Date": "2017-08-08T12:22:07.038",
+    "Address": "Istarska ul. 18, 31000, Osijek, Croatia",
+    "DeviceId": 8,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6945686,
+    "Latitude": 45.5559349,
+    "Date": "2017-08-08T12:26:07.038",
+    "Address": "Istarska ul. 5, 31000, Osijek, Croatia",
+    "DeviceId": 8,
+    "Device": null
+  },
+  {
+    "Longitude": 18.69358,
+    "Latitude": 45.556942,
+    "Date": "2017-08-08T12:18:07.038",
+    "Address": "Ul. Dobrise Cesarica 1A, 31000, Osijek, Croatia",
+    "DeviceId": 8,
+    "Device": null
+  },
+  {
+    "Longitude": 18.68976,
+    "Latitude": 45.5583534,
+    "Date": "2017-08-08T11:54:07.038",
+    "Address": "Ul. kralja Zvonimira 3, 31000, Osijek, Croatia",
+    "DeviceId": 8,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6914787,
+    "Latitude": 45.55804,
+    "Date": "2017-08-08T12:10:07.038",
+    "Address": "Ul. Otokara Kersovanija 1, 31000, Osijek, Croatia",
+    "DeviceId": 8,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6855984,
+    "Latitude": 45.5603371,
+    "Date": "2017-08-08T11:46:07.014",
+    "Address": "Ul. Kardinala Alojzija Stepinca 8, 31000, Osijek, Croatia",
+    "DeviceId": 8,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6869278,
+    "Latitude": 45.556942,
+    "Date": "2017-08-08T11:50:07.038",
+    "Address": "Vukovarska ul. 5, 31000, Osijek, Croatia",
+    "DeviceId": 8,
+    "Device": null
+  },
+  {
+    "Longitude": 18.69122,
+    "Latitude": 45.5591965,
+    "Date": "2017-08-08T12:04:07.038",
+    "Address": "Park kralja Petra Kresimira IV 6, 31000, Osijek, Croatia",
+    "DeviceId": 8,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6949959,
+    "Latitude": 45.55559,
+    "Date": "2017-08-08T12:30:07.038",
+    "Address": "Vukovarska ul. 31, 31000, Osijek, Croatia",
+    "DeviceId": 8,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6903839,
+    "Latitude": 45.5589561,
+    "Date": "2017-08-08T11:58:07.038",
+    "Address": "Park kralja Petra Kresimira IV 6, 31000, Osijek, Croatia",
+    "DeviceId": 8,
+    "Device": null
+  },
+  {
+    "Longitude": 18.69916,
+    "Latitude": 45.5566,
+    "Date": "2017-08-08T12:50:07.038",
+    "Address": "Ul. Vijenac Ivana Mestrovica 26, 31000, Osijek, Croatia",
+    "DeviceId": 8,
+    "Device": null
+  },
+  {
+    "Longitude": 18.691328,
+    "Latitude": 45.5593147,
+    "Date": "2017-08-08T12:06:07.038",
+    "Address": "Park kralja Petra Kresimira IV 6, 31000, Osijek, Croatia",
+    "DeviceId": 8,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6876373,
+    "Latitude": 45.5587463,
+    "Date": "2017-08-08T11:52:07.038",
+    "Address": "Ul. kralja Zvonimira 11, 31000, Osijek, Croatia",
+    "DeviceId": 8,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6986885,
+    "Latitude": 45.5565376,
+    "Date": "2017-08-08T12:46:07.038",
+    "Address": "Ul. Vijenac Ivana Mestrovica 26, 31000, Osijek, Croatia",
+    "DeviceId": 8,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6937943,
+    "Latitude": 45.55601,
+    "Date": "2017-08-08T12:24:07.038",
+    "Address": "Istarska ul. 12, 31000, Osijek, Croatia",
+    "DeviceId": 8,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6989441,
+    "Latitude": 45.55616,
+    "Date": "2017-08-08T12:48:07.038",
+    "Address": "Ul. Vijenac Ivana Mestrovica 50, 31000, Osijek, Croatia",
+    "DeviceId": 8,
+    "Device": null
+  },
+  {
+    "Longitude": 18.698473,
+    "Latitude": 45.5565834,
+    "Date": "2017-08-08T12:44:07.038",
+    "Address": "Ul. Vijenac Ivana Mestrovica 26, 31000, Osijek, Croatia",
+    "DeviceId": 8,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6937084,
+    "Latitude": 45.5562973,
+    "Date": "2017-08-08T12:20:07.038",
+    "Address": "Istarska ul. 8, 31000, Osijek, Croatia",
+    "DeviceId": 8,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6954269,
+    "Latitude": 45.55547,
+    "Date": "2017-08-08T12:32:07.038",
+    "Address": "Ul. kneza Trpimira 1A, 31000, Osijek, Croatia",
+    "DeviceId": 8,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6919937,
+    "Latitude": 45.55828,
+    "Date": "2017-08-08T12:08:07.038",
+    "Address": "Ul. kralja Zvonimira 1, 31000, Osijek, Croatia",
+    "DeviceId": 8,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6907921,
+    "Latitude": 45.5592575,
+    "Date": "2017-08-08T12:02:07.038",
+    "Address": "Europska avenija 2, 31000, Osijek, Croatia",
+    "DeviceId": 8,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6971645,
+    "Latitude": 45.5559959,
+    "Date": "2017-08-08T12:36:07.038",
+    "Address": "Ul. Vijenac Ivana Mestrovica 14C, 31000, Osijek, Croatia",
+    "DeviceId": 8,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6967125,
+    "Latitude": 45.5558777,
+    "Date": "2017-08-08T12:34:07.038",
+    "Address": "Ul. Vijenac Ivana Mestrovica 6, 31000, Osijek, Croatia",
+    "DeviceId": 8,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6970139,
+    "Latitude": 45.5561752,
+    "Date": "2017-08-08T12:38:07.038",
+    "Address": "Ul. Vijenac Ivana Mestrovica 14B, 31000, Osijek, Croatia",
+    "DeviceId": 8,
+    "Device": null
+  },
+  {
+    "Longitude": 18.694912,
+    "Latitude": 45.55577,
+    "Date": "2017-08-08T12:28:07.038",
+    "Address": "Vukovarska ul. 31, 31000, Osijek, Croatia",
+    "DeviceId": 8,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6919937,
+    "Latitude": 45.5572739,
+    "Date": "2017-08-08T12:14:07.038",
+    "Address": "Ul. Dobrise Cesarica 6A, 31000, Osijek, Croatia",
+    "DeviceId": 8,
+    "Device": null
+  },
+  {
+    "Longitude": 18.69946,
+    "Latitude": 45.5562973,
+    "Date": "2017-08-08T12:52:07.038",
+    "Address": "Ul. Vijenac Ivana Mestrovica 48, 31000, Osijek, Croatia",
+    "DeviceId": 8,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6971436,
+    "Latitude": 45.5563126,
+    "Date": "2017-08-08T12:40:07.038",
+    "Address": "Ul. Vijenac Ivana Mestrovica 14, 31000, Osijek, Croatia",
+    "DeviceId": 8,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6909637,
+    "Latitude": 45.5590019,
+    "Date": "2017-08-08T12:00:07.038",
+    "Address": "Park kralja Petra Kresimira IV 6, 31000, Osijek, Croatia",
+    "DeviceId": 8,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6912422,
+    "Latitude": 45.5574532,
+    "Date": "2017-08-08T12:12:07.038",
+    "Address": "Ul. Otokara Kersovanija 5, 31000, Osijek, Croatia",
+    "DeviceId": 8,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6980438,
+    "Latitude": 45.556282,
+    "Date": "2017-08-08T12:42:07.038",
+    "Address": "Ul. Vijenac Ivana Mestrovica 26F, 31000, Osijek, Croatia",
+    "DeviceId": 8,
+    "Device": null
+  },
+  {
+    "Longitude": 18.689846,
+    "Latitude": 45.5590019,
+    "Date": "2017-08-08T11:56:07.038",
+    "Address": "Park kralja Petra Kresimira IV 6, 31000, Osijek, Croatia",
+    "DeviceId": 8,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6858978,
+    "Latitude": 45.5571976,
+    "Date": "2017-08-08T11:48:07.038",
+    "Address": "Vukovarska ul. 10, 31000, Osijek, Croatia",
+    "DeviceId": 8,
+    "Device": null
+  },
+  {
+    "Longitude": 18.69534,
+    "Latitude": 45.5548172,
+    "Date": "2017-08-08T11:54:21.428",
+    "Address": "Ul. kneza Trpimira 4, 31000, Osijek, Croatia",
+    "DeviceId": 4,
+    "Device": null
+  },
+  {
+    "Longitude": 18.698988,
+    "Latitude": 45.5547333,
+    "Date": "2017-08-08T11:56:21.428",
+    "Address": "Vukovarska ul. 118, 31000, Osijek, Croatia",
+    "DeviceId": 4,
+    "Device": null
+  },
+  {
+    "Longitude": 18.693367,
+    "Latitude": 45.5552444,
+    "Date": "2017-08-08T11:52:21.428",
+    "Address": "Istarska ul. 1A, 31000, Osijek, Croatia",
+    "DeviceId": 4,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6593342,
+    "Latitude": 45.5463943,
+    "Date": "2017-08-08T11:54:33.832",
+    "Address": "Ul. Svetog Leopolda Bogdana Mandica 107, 31000, Osijek, Croatia",
+    "DeviceId": 3,
+    "Device": null
+  },
+  {
+    "Longitude": 18.64749,
+    "Latitude": 45.5412254,
+    "Date": "2017-08-08T11:52:33.832",
+    "Address": "Ul. Svetog Leopolda Bogdana Mandica 111I, 31000, Osijek, Croatia",
+    "DeviceId": 3,
+    "Device": null
+  },
+  {
+    "Longitude": 18.70401,
+    "Latitude": 45.547596,
+    "Date": "2017-08-08T12:16:33.832",
+    "Address": "Banjalucka ul. 21-23, 31000, Osijek, Croatia",
+    "DeviceId": 3,
+    "Device": null
+  },
+  {
+    "Longitude": 18.7071419,
+    "Latitude": 45.546875,
+    "Date": "2017-08-08T12:14:33.832",
+    "Address": "Miholjacka ul. 8, 31000, Osijek, Croatia",
+    "DeviceId": 3,
+    "Device": null
+  },
+  {
+    "Longitude": 18.7078285,
+    "Latitude": 45.54468,
+    "Date": "2017-08-08T12:12:33.832",
+    "Address": "Ul. kralja Petra Svacica 60, 31000, Osijek, Croatia",
+    "DeviceId": 3,
+    "Device": null
+  },
+  {
+    "Longitude": 18.69654,
+    "Latitude": 45.54396,
+    "Date": "2017-08-08T11:55:58.54",
+    "Address": "Ul. Woodrowa Wilsona 89, 31000, Osijek, Croatia",
+    "DeviceId": 6,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6977425,
+    "Latitude": 45.5440369,
+    "Date": "2017-08-08T12:09:58.54",
+    "Address": "Delnicka ul. 1, 31000, Osijek, Croatia",
+    "DeviceId": 6,
+    "Device": null
+  },
+  {
+    "Longitude": 18.7014332,
+    "Latitude": 45.54276,
+    "Date": "2017-08-08T12:01:58.54",
+    "Address": "Kutinska ul. 15, 31000, Osijek, Croatia",
+    "DeviceId": 6,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6980019,
+    "Latitude": 45.5482864,
+    "Date": "2017-08-08T12:05:58.54",
+    "Address": "Belomanastirska ul. 46, 31000, Osijek, Croatia",
+    "DeviceId": 6,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6954269,
+    "Latitude": 45.5490074,
+    "Date": "2017-08-08T11:53:58.539",
+    "Address": "Ul. Martina Divalta 9-11, 31000, Osijek, Croatia",
+    "DeviceId": 6,
+    "Device": null
+  },
+  {
+    "Longitude": 18.7018852,
+    "Latitude": 45.54091,
+    "Date": "2017-08-08T11:59:58.54",
+    "Address": "Kutinska ul. 39, 31000, Osijek, Croatia",
+    "DeviceId": 6,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6968842,
+    "Latitude": 45.5481071,
+    "Date": "2017-08-08T12:07:58.54",
+    "Address": "Belomanastirska ul. 58, 31000, Osijek, Croatia",
+    "DeviceId": 6,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6992874,
+    "Latitude": 45.54283,
+    "Date": "2017-08-08T12:03:58.54",
+    "Address": "Antunovacka ul. 1, 31000, Osijek, Croatia",
+    "DeviceId": 6,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6613941,
+    "Latitude": 45.5594978,
+    "Date": "2017-08-08T12:07:14.785",
+    "Address": "Kalnicka ul. 34a, 31000, Osijek, Croatia",
+    "DeviceId": 5,
+    "Device": null
+  },
+  {
+    "Longitude": 18.64955,
+    "Latitude": 45.5626221,
+    "Date": "2017-08-08T12:55:14.785",
+    "Address": "Zumberacka ul. 85, 31000, Osijek, Croatia",
+    "DeviceId": 5,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6613941,
+    "Latitude": 45.5600967,
+    "Date": "2017-08-08T12:01:14.785",
+    "Address": "Kalnicka ul. 31, 31000, Osijek, Croatia",
+    "DeviceId": 5,
+    "Device": null
+  },
+  {
+    "Longitude": 18.66354,
+    "Latitude": 45.5581741,
+    "Date": "2017-08-08T12:13:14.785",
+    "Address": "Ul. Ivana Gundulica 123B, 31000, Osijek, Croatia",
+    "DeviceId": 5,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6591625,
+    "Latitude": 45.55667,
+    "Date": "2017-08-08T12:31:14.785",
+    "Address": "Sljemenska ul. 13A, 31000, Osijek, Croatia",
+    "DeviceId": 5,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6529827,
+    "Latitude": 45.5637627,
+    "Date": "2017-08-08T13:07:14.785",
+    "Address": "Ul. Ljudevita Posavskog 2, 31000, Osijek, Croatia",
+    "DeviceId": 5,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6638832,
+    "Latitude": 45.5569725,
+    "Date": "2017-08-08T12:25:14.785",
+    "Address": "Poljski put 1, 31000, Osijek, Croatia",
+    "DeviceId": 5,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6478329,
+    "Latitude": 45.5573349,
+    "Date": "2017-08-08T12:43:14.785",
+    "Address": "Kolodvorska ul. 163, 31000, Osijek, Croatia",
+    "DeviceId": 5,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6652565,
+    "Latitude": 45.5577545,
+    "Date": "2017-08-08T12:19:14.785",
+    "Address": "Ul. Ivana Gundulica 109, 31000, Osijek, Croatia",
+    "DeviceId": 5,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6473179,
+    "Latitude": 45.5626831,
+    "Date": "2017-08-08T12:49:14.785",
+    "Address": "Kapelska ul. 23, 31000, Osijek, Croatia",
+    "DeviceId": 5,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6510086,
+    "Latitude": 45.56166,
+    "Date": "2017-08-08T13:19:14.785",
+    "Address": "Krndije ul. 28, 31000, Osijek, Croatia",
+    "DeviceId": 5,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6544418,
+    "Latitude": 45.55691,
+    "Date": "2017-08-08T12:37:14.785",
+    "Address": "Dalmatinska ul. 40-50, 31000, Osijek, Croatia",
+    "DeviceId": 5,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6523819,
+    "Latitude": 45.561,
+    "Date": "2017-08-08T13:13:14.785",
+    "Address": "Kozjacka ul. 74, 31000, Osijek, Croatia",
+    "DeviceId": 5,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6510086,
+    "Latitude": 45.5636444,
+    "Date": "2017-08-08T13:01:14.785",
+    "Address": "Pljesivicka ul. 40, 31000, Osijek, Croatia",
+    "DeviceId": 5,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6696339,
+    "Latitude": 45.5561028,
+    "Date": "2017-08-08T12:50:13.865",
+    "Address": "Ul. Ivana Gundulica 63, 31000, Osijek, Croatia",
+    "DeviceId": 2,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6677456,
+    "Latitude": 45.5589867,
+    "Date": "2017-08-08T12:26:13.865",
+    "Address": "Ul. Svetog Roka 53a, 31000, Osijek, Croatia",
+    "DeviceId": 2,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6619949,
+    "Latitude": 45.5570641,
+    "Date": "2017-08-08T13:50:13.865",
+    "Address": "Sljemenska ul. 2g, 31000, Osijek, Croatia",
+    "DeviceId": 2,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6679173,
+    "Latitude": 45.56067,
+    "Date": "2017-08-08T12:14:13.865",
+    "Address": "Ilirska ul. 24, 31000, Osijek, Croatia",
+    "DeviceId": 2,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6613941,
+    "Latitude": 45.5619,
+    "Date": "2017-08-08T12:02:13.865",
+    "Address": "Ul. Antuna Kanizlica 26, 31000, Osijek, Croatia",
+    "DeviceId": 2,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6583042,
+    "Latitude": 45.5594368,
+    "Date": "2017-08-08T13:32:13.865",
+    "Address": "Cvrsnicka ul. 70, 31000, Osijek, Croatia",
+    "DeviceId": 2,
+    "Device": null
+  },
+  {
+    "Longitude": 18.664999,
+    "Latitude": 45.5616,
+    "Date": "2017-08-08T12:08:13.865",
+    "Address": "Naselje Vladimira Nazora 12, 31000, Osijek, Croatia",
+    "DeviceId": 2,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6611366,
+    "Latitude": 45.5638847,
+    "Date": "2017-08-08T11:56:13.864",
+    "Address": "Ul. Josipa Jurja Strossmayera 141, 31000, Osijek, Croatia",
+    "DeviceId": 2,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6701488,
+    "Latitude": 45.5583839,
+    "Date": "2017-08-08T12:38:13.865",
+    "Address": "Ruzina ul. 52, 31000, Osijek, Croatia",
+    "DeviceId": 2,
+    "Device": null
+  },
+  {
+    "Longitude": 18.66985,
+    "Latitude": 45.5567,
+    "Date": "2017-08-08T12:44:13.865",
+    "Address": "Dubrovacka ul. 83A, 31000, Osijek, Croatia",
+    "DeviceId": 2,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6662445,
+    "Latitude": 45.5573044,
+    "Date": "2017-08-08T13:08:13.865",
+    "Address": "Ul. Svetog Roka 78, 31000, Osijek, Croatia",
+    "DeviceId": 2,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6687756,
+    "Latitude": 45.5604,
+    "Date": "2017-08-08T12:20:13.865",
+    "Address": "Ul. Svetog Roka 35, 31000, Osijek, Croatia",
+    "DeviceId": 2,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6597633,
+    "Latitude": 45.5595856,
+    "Date": "2017-08-08T13:26:13.865",
+    "Address": "Kalnicka ul. 11, 31000, Osijek, Croatia",
+    "DeviceId": 2,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6619949,
+    "Latitude": 45.5581436,
+    "Date": "2017-08-08T13:44:13.865",
+    "Address": "Ul. Antuna Kanizlica 64, 31000, Osijek, Croatia",
+    "DeviceId": 2,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6556854,
+    "Latitude": 45.55553,
+    "Date": "2017-08-08T14:02:13.865",
+    "Address": "Snjeznicka ul. 25-27, 31000, Osijek, Croatia",
+    "DeviceId": 2,
+    "Device": null
+  },
+  {
+    "Longitude": 18.65839,
+    "Latitude": 45.5569725,
+    "Date": "2017-08-08T13:56:13.865",
+    "Address": "Sljemenska ul. 14, 31000, Osijek, Croatia",
+    "DeviceId": 2,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6696339,
+    "Latitude": 45.5586243,
+    "Date": "2017-08-08T12:32:13.865",
+    "Address": "Ruzina ul. 60, 31000, Osijek, Croatia",
+    "DeviceId": 2,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6691189,
+    "Latitude": 45.55541,
+    "Date": "2017-08-08T12:56:13.865",
+    "Address": "Dubrovacka ul. 68, 31000, Osijek, Croatia",
+    "DeviceId": 2,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6613941,
+    "Latitude": 45.55998,
+    "Date": "2017-08-08T13:20:13.865",
+    "Address": "Kalnicka ul. 29a, 31000, Osijek, Croatia",
+    "DeviceId": 2,
+    "Device": null
+  },
+  {
+    "Longitude": 18.661438,
+    "Latitude": 45.5591354,
+    "Date": "2017-08-08T13:14:13.865",
+    "Address": "Kalnicka ul. 44, 31000, Osijek, Croatia",
+    "DeviceId": 2,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6660728,
+    "Latitude": 45.5567932,
+    "Date": "2017-08-08T13:02:13.865",
+    "Address": "Ul. Izidora Krsnjavoga 38, 31000, Osijek, Croatia",
+    "DeviceId": 2,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6585617,
+    "Latitude": 45.5580254,
+    "Date": "2017-08-08T13:38:13.865",
+    "Address": "Psunjska ul. 32A, 31000, Osijek, Croatia",
+    "DeviceId": 2,
+    "Device": null
+  },
+  {
+    "Longitude": 18.6611366,
+    "Latitude": 45.5638847,
+    "Date": "2017-08-08T11:59:24.583",
+    "Address": "Ul. Josipa Jurja Strossmayera 141, 31000, Osijek, Croatia",
+    "DeviceId": 3,
+    "Device": null
+  }
+]

@@ -1,0 +1,83 @@
+﻿[
+  {
+    "UserId": "24KfNQ45smY2iJ9Lh6WI3bdwc0Y2",
+    "Name": "Marina",
+    "Icon": "woman",
+    "Longitude": 18.7008762,
+    "Latitude": 45.5526924,
+    "Address": "Sjenjak ul. 2, 31000, Osijek, Croatia",
+    "Date": "2017-08-07T17:42:27.182"
+  },
+  {
+    "UserId": "24KfNQ45smY2iJ9Lh6WI3bdwc0Y2",
+    "Name": "Rex",
+    "Icon": "dog",
+    "Longitude": 18.6585617,
+    "Latitude": 45.5580254,
+    "Address": "Psunjska ul. 32A, 31000, Osijek, Croatia",
+    "Date": "2017-08-08T13:38:13.865"
+  },
+  {
+    "UserId": "24KfNQ45smY2iJ9Lh6WI3bdwc0Y2",
+    "Name": "Audi A3",
+    "Icon": "car",
+    "Longitude": 18.6611366,
+    "Latitude": 45.5638847,
+    "Address": "Ul. Josipa Jurja Strossmayera 141, 31000, Osijek, Croatia",
+    "Date": "2017-08-08T11:59:24.583"
+  },
+  {
+    "UserId": "24KfNQ45smY2iJ9Lh6WI3bdwc0Y2",
+    "Name": "Ana",
+    "Icon": "girl",
+    "Longitude": 18.693367,
+    "Latitude": 45.5552444,
+    "Address": "Istarska ul. 1A, 31000, Osijek, Croatia",
+    "Date": "2017-08-08T11:52:21.428"
+  },
+  {
+    "UserId": "24KfNQ45smY2iJ9Lh6WI3bdwc0Y2",
+    "Name": "Pero Peric",
+    "Icon": "man",
+    "Longitude": 18.6510086,
+    "Latitude": 45.5636444,
+    "Address": "Pljesivicka ul. 40, 31000, Osijek, Croatia",
+    "Date": "2017-08-08T13:01:14.785"
+  },
+  {
+    "UserId": "24KfNQ45smY2iJ9Lh6WI3bdwc0Y2",
+    "Name": "Josip",
+    "Icon": "boy",
+    "Longitude": 18.6992874,
+    "Latitude": 45.54283,
+    "Address": "Antunovacka ul. 1, 31000, Osijek, Croatia",
+    "Date": "2017-08-08T12:03:58.54"
+  },
+  {
+    "UserId": "lvaHs8qXgbRslI4k7VGXWhAdn5L2",
+    "Name": "Pero Peric",
+    "Icon": "car",
+    "Longitude": null,
+    "Latitude": null,
+    "Address": null,
+    "Date": "0001-01-01T00:00:00"
+  },
+  {
+    "UserId": "24KfNQ45smY2iJ9Lh6WI3bdwc0Y2",
+    "Name": "Macak",
+    "Icon": "cat",
+    "Longitude": 18.6858978,
+    "Latitude": 45.5571976,
+    "Address": "Vukovarska ul. 10, 31000, Osijek, Croatia",
+    "Date": "2017-08-08T11:48:07.038"
+  },
+  {
+    "UserId": "lvaHs8qXgbRslI4k7VGXWhAdn5L2",
+    "Name": "Netko Netkic",
+    "Icon": "lion",
+    "Longitude": null,
+    "Latitude": null,
+    "Address": null,
+    "Date": "0001-01-01T00:00:00"
+  }
+]
