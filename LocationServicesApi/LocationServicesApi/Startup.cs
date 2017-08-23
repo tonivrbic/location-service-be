@@ -74,6 +74,7 @@ namespace LocationServicesApi
                     template: "{controller=Home}/{action=Index}/{id?}");
             });
 
+            context.Database.Migrate();
             DbInitializer.Initialize(context);
         }
     }
